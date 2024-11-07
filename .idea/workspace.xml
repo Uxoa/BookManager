@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee7f720f-67db-44be-8614-c3268aa47e51" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/exercices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BookConsoleView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BookManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CajaFuerte/CajaFuerte.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex01/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/.idea/Experto-en-Java-desde-Cero-a-Master-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion10/Aritmetica/Aritmetica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion10/Calculadora/Calculadora.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion11/Leccion111.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion12/Aritmetica_V3/Aritmetica_V3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion12/Caja/Caja.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion14/PasoPorReferencia/PasoPorReferencia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion14/PasosPorValor/PasosPorValor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion15/PalabraReturn/PalabraReturn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion15/PalabraReturnClases/PalabraReturnClases.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion16/Leccion161.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion17/Leccion17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion18/Leccion18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion19/Leccion19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion20/Leccion20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion21/Leccion211.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion23/Leccion231.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion26/Leccion26.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion4/ManejoCadenasBasico/ManejoCadenasBasico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion4/ManejoVariables/ManejoVariables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion5/ManejoOperadores/ManejoOperadores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion5/PrecedenciaOperadores/PrecedenciaOperadores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion6/CalculaMes/CalculaMes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion6/CalculoMesSwitch/CalculoMesSwitch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion6/EjemploIf/EjemploIf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion6/EjemploIfElse/EjemploIfElse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion6/EjemploIfElseIfElse/EjemploIfElseIfElse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion7/CicloDoWhile/CicloDoWhile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion7/CicloFor/CicloFor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion7/CicloWhile/CicloWhile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion8/Leccion81.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/Leccion9/Leccion9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/1-Fundamentos-JAVA/ejercicio1/ejercicio1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion10/Leccion10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion11/Leccion11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion12/Leccion12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion13/Leccion13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion14/Leccion14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion15/Leccion15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion16/Leccion16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion17/Leccion171.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion18/ManejoExcepciones1/ManejoExcepciones1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion18/ManejoExcepciones2/ManejoExcepciones2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion19/Leccion191.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion20/ManejoColleccionesGenericas/ManejoColleccionesGenericas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion20/ManejoGenericos/ManejoGenericos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion21/Leccion21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion22/CalculadoraEntradaDatos/CalculadoraEntradaDatos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion22/EntradaDatos/EntradaDatos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion22/EntradaDatosScanner/EntradaDatosScanner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion23/Leccion23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion24/Leccion24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion3/Leccion3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion4/Leccion4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion8/Leccion8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/2-Programacion-con-JAVA/Leccion9/Leccion91.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/3-ConexionaBasesdeDatosconJDBC/Leccion10/FireStorm/FireStorm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/3-ConexionaBasesdeDatosconJDBC/Leccion10/SgaMySql/SgaMySql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/3-ConexionaBasesdeDatosconJDBC/Leccion11/FireStorm/FireStorm1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/3-ConexionaBasesdeDatosconJDBC/Leccion11/HrOracle/HrOracle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/3-ConexionaBasesdeDatosconJDBC/Leccion3/Leccion31.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/3-ConexionaBasesdeDatosconJDBC/Leccion4/ManejoPersonas/ManejoPersonas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/3-ConexionaBasesdeDatosconJDBC/Leccion4/ManejoUsuarios/ManejoUsuarios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/3-ConexionaBasesdeDatosconJDBC/Leccion7/CallableStatementCursores/CallableStatementCursores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/3-ConexionaBasesdeDatosconJDBC/Leccion7/CallableStatementFunciones/CallableStatementFunciones.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursos/Experto-en-Java-desde-Cero-a-Master-master/3-ConexionaBasesdeDatosconJDBC/Leccion7/CallableStatementProcedimientos/CallableStatementProcedimientos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ejercicios/ex-css-curriculum" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2o79YogjAXk30kMOdwy36D9F2hL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/paloma/Downloads/0-bootCampAWSF5/javaf5/exercices/BookManagerApp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/paloma/Downloads/bootCampAWSF5/javaf5/exercices/BookManagerApp/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee7f720f-67db-44be-8614-c3268aa47e51" name="Changes" comment="" />
+      <created>1730209797211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730209797211</updated>
+      <workItem from="1730209798272" duration="2968000" />
+      <workItem from="1730214198722" duration="874000" />
+      <workItem from="1730275889383" duration="216000" />
+      <workItem from="1730287076780" duration="1925000" />
+      <workItem from="1730892622216" duration="207000" />
+      <workItem from="1730892879342" duration="2417000" />
+      <workItem from="1730895315520" duration="623000" />
+      <workItem from="1730971173640" duration="4012000" />
+      <workItem from="1730976645659" duration="257000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
