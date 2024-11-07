@@ -1,6 +1,4 @@
-# 📚 📚 📚 BookManager 📚 📚 📚 
-
-# Proyecto de Gestión de Libros
+# 📚 📚 📚 BookManager JAVA 📚 📚 📚 
 
 Aplicación de consola para gestionar una colección de libros. Permite añadir, listar y eliminar libros a través de un menú interactivo.
 
